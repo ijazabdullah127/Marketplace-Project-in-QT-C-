@@ -1,0 +1,23 @@
+# ninja log v6
+28	1077	7648608362698542	untitled_autogen/timestamp	571bb6a4c7e8193
+1078	5136	7648608363724780	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	1f97bb6b43fc2fb8
+781	3546	7648605630496981	CMakeFiles/untitled.dir/src/auth/sessionmanager.cpp.obj	d458542cc2be0228
+28	1077	7648608362698542	untitled_autogen/mocs_compilation.cpp	571bb6a4c7e8193
+28	1077	7648608362698542	I:/Other Courses/Qt Project/Project/untitled/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	571bb6a4c7e8193
+28	1077	7648608362698542	I:/Other Courses/Qt Project/Project/untitled/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/untitled_autogen/timestamp	571bb6a4c7e8193
+1082	4713	7648608363764800	CMakeFiles/untitled.dir/main.cpp.obj	6c5563d3edd30d86
+1087	5511	7648608363820104	CMakeFiles/untitled.dir/mainwindow.cpp.obj	e290cc1004c773a6
+4550	4920	7648605668182677	untitled.exe	d467f013ea9fb50c
+773	2554	7648605630411828	CMakeFiles/untitled.dir/src/auth/user.cpp.obj	35675b7d318e33b0
+778	3737	7648605630456984	CMakeFiles/untitled.dir/src/auth/authmanager.cpp.obj	9f86660047835b8c
+785	3752	7648605630542150	CMakeFiles/untitled.dir/src/database/databasemanager.cpp.obj	400ac543af207e86
+1099	1230	7648608363935430	CMakeFiles/untitled.dir/src/ui/cartpage.cpp.obj	4f91a320450b4716
+1091	4339	7648608363860125	CMakeFiles/untitled.dir/src/ui/protectedpage.cpp.obj	d893f7b4eaa583fe
+1095	4705	7648608363895336	CMakeFiles/untitled.dir/src/ui/orderhistorypage.cpp.obj	8916c5e1579472e9
+23	144	7648609602168246	untitled_autogen/timestamp	571bb6a4c7e8193
+23	144	7648609602168246	untitled_autogen/mocs_compilation.cpp	571bb6a4c7e8193
+23	144	7648609602168246	I:/Other Courses/Qt Project/Project/untitled/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/untitled_autogen/timestamp	571bb6a4c7e8193
+23	144	7648609602168246	I:/Other Courses/Qt Project/Project/untitled/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	571bb6a4c7e8193
+148	2399	7648609603410267	CMakeFiles/untitled.dir/src/ui/cartpage.cpp.obj	4f91a320450b4716
+145	2989	7648609603385170	CMakeFiles/untitled.dir/mainwindow.cpp.obj	e290cc1004c773a6
+2989	3420	7648609631821554	untitled.exe	28ac7fced6964f55
